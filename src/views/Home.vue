@@ -7,14 +7,14 @@
       <p class="mt-4 font-sans">I have <span class="text-gray-800 font-bold">over 6 years of experience building and designing software applications.</span></p>
       <p class="font-sans">If you would like to get in touch you can send me an e-mail to: <span class="text-blue-600 font-bold">ubirajara_neto@hotmail.com</span></p>
     </div>
-    <div class="mt-4 flex flex-col md:flex-row justify-between w-6/12">
-      <div>
-        <router-link to="/portfolio" class="ghost-btn text-2xl font-mono text-gray-800">Blog</router-link>
+    <div class="mt-4 flex flex-col md:flex-row md:justify-between w-6/12">
+      <div class="mb-4">
+        <a href="https://dev.to/ubirajaramneto" class="ghost-btn text-2xl font-mono text-gray-800">Blog</a>
       </div>
-      <div>
+      <div class="mb-4">
         <a href="https://www.linkedin.com/in/ubirajara-marsicano-neto/" target="_blank" class="ghost-btn text-2xl font-mono text-gray-800">Linked-In</a>
       </div>
-      <div>
+      <div class="mb-4">
         <a href="https://www.github.com/ubirajaramneto" target="_blank" class="ghost-btn text-2xl font-mono text-gray-800">Github</a>
       </div>
     </div>
