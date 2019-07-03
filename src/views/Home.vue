@@ -9,7 +9,7 @@
     </div>
     <div class="mt-4 flex flex-col md:flex-row md:justify-between w-6/12">
       <div class="mb-4">
-        <a href="https://dev.to/ubirajaramneto" class="ghost-btn text-2xl font-mono text-gray-800">Blog</a>
+        <a href="https://dev.to/ubirajaramneto" target="_blank" class="ghost-btn text-2xl font-mono text-gray-800">Blog</a>
       </div>
       <div class="mb-4">
         <a href="https://www.linkedin.com/in/ubirajara-marsicano-neto/" target="_blank" class="ghost-btn text-2xl font-mono text-gray-800">Linked-In</a>
